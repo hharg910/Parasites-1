@@ -3,3 +3,4 @@ Here is some new text added for the second committ to my file.
 
 Saving those second changes now...
 
+Another line of text
