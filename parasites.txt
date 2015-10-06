@@ -1,4 +1,4 @@
 Avoid Chagas disease at all costs.
-Sleeping sickness is also bad.
+CHANGED TEXT Sleeping sickness is also bad.
 adding a conflict
 adding another conflict
